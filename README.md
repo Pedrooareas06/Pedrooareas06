@@ -15,6 +15,6 @@ Sou um desenvolvedor com foco em tecnologias Frontend (HTML, CSS, JavaScript, Ty
 - Desafios de programação
 
 ## 📫 Contato
-- **Email:** pedrooareas06@email.com
+- **Email:** pedrooareas06@gmail.com
 - **LinkedIn:** [in/pedrohenriquefrontend](https://www.linkedin.com/in/pedrohenriquefrontend/)
 - **GitHub:** [github.com/Pedrooareas06](https://github.com/Pedrooareas06)
