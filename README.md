@@ -6,7 +6,7 @@ Atualmente focado em **React.js + Vite + TailwindCSS**, aplicando boas práticas
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9e62b6ba-c4f8-4bc1-9f19-769bc6de9b39" />
+  <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/9e62b6ba-c4f8-4bc1-9f19-769bc6de9b39" />
  JavaScript
 - ⚛️ React.js (componentização, hooks, estados, props)
 - ⚡ Vite (build rápido e otimizado)
