@@ -20,7 +20,6 @@ Atualmente focado em **React.js + Vite + TailwindCSS**, aplicando boas práticas
 ### 🎮 Game Deals Dashboard
 Aplicação que consome a API **CheapShark** para exibir promoções de jogos em:
 - **Cards animados**
-- **Carrossel interativo**
 - **Tabela com filtros**
 - **Modal de detalhes** com botão para compra  
 
