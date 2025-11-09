@@ -16,17 +16,28 @@ Atualmente focado em **React.js + Vite + TailwindCSS**, aplicando boas práticas
 
 ---
 
-## 📂 Projeto em Destaque
-### 🎮 Game Deals Dashboard
-Aplicação que consome a API **CheapShark** para exibir promoções de jogos em:
-- **Cards animados**
-- **Tabela com filtros**
-- **Modal de detalhes** com botão para compra  
+## 📁 Projeto em Destaque
 
-🔗 [Repositório do projeto](https://github.com/Pedrooareas06/game-deals-dashboard)  
+💼 Portfólio Pessoal — Pedro Henrique de Lima Arêas
+Aplicação desenvolvida para apresentar meus trabalhos, habilidades e trajetória como desenvolvedor front-end.
+
+Principais recursos:
+
+🎨 Layout moderno, minimalista e responsivo
+
+⚙️ Criado com React + Vite + TypeScript + TailwindCSS
+
+✨ Componentes com animações suaves (Framer Motion)
+
+🧱 Favicon personalizado com as iniciais PH
+
+🌙 Tema visual clean e profissional  
+
+🔗 [Acessar portfólio online](https://portifolio-pessoal-sepia-nu.vercel.app/)  
 
 ---
 
 📫 **Entre em contato comigo**  
 - Email: pedrohenriqueareas@gmail.com  
-- GitHub: [Pedrooareas06](https://github.com/Pedrooareas06)  
+- GitHub: [Pedrooareas06](https://github.com/Pedrooareas06) 
+- WhatsApp : [Meu contato](5521996771494)
