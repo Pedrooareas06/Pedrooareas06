@@ -54,41 +54,63 @@ const pedroAreas: Developer = {
 ### ⚛️ Front-End Core
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" alt="Frontend Core"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" height="48"/></a>
 </p>
 
 ### 🎨 Styling & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,figma" alt="Styling"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sass" title="Sass" alt="Sass" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=styledcomponents" title="Styled Components" alt="Styled Components" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48"/></a>
 </p>
 
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" title="shadcn/ui" alt="shadcn/ui"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" title="Framer Motion" alt="Framer Motion"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" title="Radix UI" alt="Radix UI"/></a>
+</p>
 
 ### 🔧 Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,vite" alt="Tools"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=npm" title="NPM" alt="NPM" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="48" height="48"/></a>
 </p>
 
 ### 📚 Explorando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,postgres" alt="Learning"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" width="48" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/></a>
 </p>
 
 </div>
 
 ---
 
-## 🏆 Projeto em Destaque
+## 🏆 Projetos em Destaque
 
 <div align="center">
 
 <a href="https://portifolio-pessoal-sepia-nu.vercel.app/">
   <img src="https://img.shields.io/badge/🚀_PORTFÓLIO_PESSOAL-Acesse_Agora-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://game-deals-2-0.vercel.app/">
+  <img src="https://img.shields.io/badge/🎮_GAME_DEALS_2.0-Acesse_Agora-10b981?style=for-the-badge&labelColor=0f172a" alt="Game Deals"/>
 </a>
 
 </div>
@@ -112,24 +134,31 @@ Aplicação desenvolvida para apresentar minha jornada, projetos e evolução co
 - 🔍 SEO otimizado
 - 📱 Mobile-first design
 
-</td>
-<td width="50%">
-
-**🛠️ Stack Utilizada:**
-
-```
-├── ⚛️  React / Next.js
-├── 🟦  TypeScript
-├── 🎨  Tailwind CSS
-├── 🧩  shadcn/ui
-├── ✨  Framer Motion
-└── 🚀  Vercel (Deploy)
-```
-
 <div align="center">
 
 [![Ver Projeto](https://img.shields.io/badge/▶_VER_PROJETO-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-pessoal-sepia-nu.vercel.app/)
-[![Código](https://img.shields.io/badge/📂_CÓDIGO-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedrooareas06)
+
+</div>
+
+</td>
+<td width="50%">
+
+### 🎮 Game Deals 2.0
+
+Plataforma para encontrar as melhores ofertas de jogos com interface moderna e intuitiva.
+
+**✨ Highlights:**
+
+- 🔥 Busca de promoções em tempo real
+- 💰 Comparação de preços entre lojas
+- 🎨 Interface dark mode elegante
+- ⚡ Performance otimizada
+- 🔔 Experiência fluida
+- 📱 Design responsivo
+
+<div align="center">
+
+[![Ver Projeto](https://img.shields.io/badge/▶_VER_PROJETO-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://game-deals-2-0.vercel.app/)
 
 </div>
 
@@ -143,10 +172,16 @@ Aplicação desenvolvida para apresentar minha jornada, projetos e evolução co
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pedrooareas06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrooareas06&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
+<a href="https://github.com/Pedrooareas06">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pedrooareas06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Pedrooareas06">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Pedrooareas06&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
+</a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooareas06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages"/>
+<a href="https://github.com/Pedrooareas06">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooareas06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -162,9 +197,15 @@ Aplicação desenvolvida para apresentar minha jornada, projetos e evolução co
 <div align="center">
 
 <p>
+  <a href="https://www.linkedin.com/in/pedrohenriquefrontend/">
+    <img src="https://img.shields.io/badge/LinkedIn-pedrohenriquefrontend-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:pedrohenriqueareas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pedrohenriqueareas-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p>
   <a href="https://github.com/Pedrooareas06">
     <img src="https://img.shields.io/badge/GitHub-Pedrooareas06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
