@@ -1,105 +1,98 @@
 <div align="center">
 
-# 👨‍💻 Pedro Henrique de Lima Arêas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=Pedro%20Henrique%20de%20Lima%20Arêas&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Specialist&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Criando+interfaces+modernas+e+escal%C3%A1veis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%BC+Front-End+Developer+na+LEADER+EMPRESARIAL;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+TypeScript+Specialist;%F0%9F%8E%A8+Criando+interfaces+modernas+e+escal%C3%A1veis;%F0%9F%9A%80+Transformando+ideias+em+experi%C3%AAncias+digitais)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
----
+<a href="mailto:pedrohenriqueareas@gmail.com">
+  <img src="https://img.shields.io/badge/-pedrohenriqueareas%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Pedrooareas06">
+  <img src="https://img.shields.io/badge/-Pedrooareas06-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://wa.me/5521996771494">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://portifolio-pessoal-sepia-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/-Meu%20Portfólio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-Sou **Desenvolvedor Front-End**, com foco em criar interfaces modernas, escaláveis e com excelente experiência do usuário.
+<br/><br/>
 
-Atuo principalmente no ecossistema **React**, utilizando **Next.js**, **TypeScript**, **Tailwind CSS** e **shadcn/ui** em projetos reais de produto.
-
-Tenho contato com back-end e banco de dados para integração e entendimento do fluxo completo da aplicação, mantendo meu foco principal em **Front-End**.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-### 🧠 Front-End (foco principal)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-- ⚛️ **React.js** — hooks, componentização, estado e boas práticas
-- ⏭️ **Next.js** — App Router, Server/Client Components e estrutura moderna
-- 🟦 **TypeScript** — tipagem estática e código mais seguro
-- 🎨 **Tailwind CSS** — design responsivo e padronizado
-- 🧩 **shadcn/ui** — componentes acessíveis e reutilizáveis
-- 🌀 **Framer Motion** — animações e transições suaves
-
-### 🔌 Integrações e Versionamento
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-- 🌐 Consumo de **APIs REST**
-- 🛠️ **Git & GitHub** — versionamento, branches e colaboração em equipe
-
-### 🗄️ Back-End e Dados (conhecimento complementar)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-- 🟢 **Node.js** — em processo de aprendizado
-- 🗃️ **SQL** — consultas básicas (SELECT, WHERE, JOIN simples)
-- 🔵 **C# / .NET** — em fase de estudo e evolução
-
----
-
-## 📁 Projeto em Destaque
-
-### 💼 [Portfólio Pessoal](https://portifolio-pessoal-sepia-nu.vercel.app/)
-
-Aplicação desenvolvida para apresentar meus projetos, stack técnica e evolução como desenvolvedor front-end.
-
-**Principais características:**
-
-- 🎨 Layout moderno, clean e totalmente responsivo
-- ⚙️ Desenvolvido com **React / Next.js + TypeScript + Tailwind CSS**
-- 🧩 Componentes utilizando **shadcn/ui**
-- ✨ Animações com **Framer Motion**
-- 🧱 Identidade visual profissional
-
-🔗 **[Acesse o projeto →](https://portifolio-pessoal-sepia-nu.vercel.app/)**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrooareas06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooareas06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://komarev.com/ghpvc/?username=Pedrooareas06&color=0ea5e9&style=for-the-badge&label=VISITANTES"/>
 
 </div>
 
 ---
 
-## 📫 Contato
+## 🧑‍💻 Sobre Mim
 
-<div align="center">
+```typescript
+const pedroAreas: Developer = {
+  cargo: "Front-End Developer",
+  empresa: "LEADER EMPRESARIAL",
+  localizacao: "Rio de Janeiro, Brasil 🇧🇷",
+  foco: ["React", "Next.js", "TypeScript", "UI/UX"],
+  objetivo: "Criar interfaces modernas, escaláveis e com UX excepcional"
+};
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+Sou Desenvolvedor Front-EndatuLÍDER EMPRESARIAL,
 
-[![Email](https://img.shields.io/badge/Email-pedrohenriqueareas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriqueareas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Pedrooareas06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedrooareas06)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2021%2099677--1494-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521996771494)
+Atuo principalmente no ecossistema React, uNext.js, *TypeScript, *Tailwind CSSe *shadcn/ui e
 
+Tenho contato com back-end e banco de dados para integração e entendimento do fluxo completo da aplicação, mantendo meu foco principal em Front-End.
+
+<br clear="right"/>
+💼
+<table> <
+🛠️ Sta
+<div a
+⚡ F
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,javascript&theme=dark" />
+Tecnologia	Nível	Descrição
+⚛️ React.js	██	Ho
+Next.js	███	Roteador de Aplicativos, Ser
+🔷 TypeScript	████	T
+Tailwind CSS	██	De
+🧩 shadcn/ui	███████░░░	C
+✨ Framer Motion	██	Animações e transições suaves
+<br/>
+🔗 Int
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" /> <br/>
+�
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,postgres&theme=dark" />
+Tecnologia	Status
+🟢 Node.js	Em aprender
+🗄️ SQL	Consultas
+🔵 C# / .NET	Em evolução
 </div>
+🏆 Projeto em De
+<div a <a href="https://portifolio-pessoal-sepia-nu.vercel.app/"> </div
+💼 [Portfólio Pessoal — Pedro Henrique de Lima Arêas]( https://portifolio-pessoal-sepia-nu.vercel
+🎯 Aplicação desenvolvida para apresentar meus projetos, stack técnica e evolução como desenvolvedor
 
----
+<table
+✨ Características principais:
 
-<div align="center">
+🎨 Layout moderno, limpo e totalmente resp.
+⚙️ React / Next.js +TypeScript+ *Tailwind CSS
+shadcn/ui
+💫 Animações fluidas com Framer Motion
+🏗️ Identificação
+</td> <t <a href="https://portifolio-pessoal-sepia-nu.vercel.app/"> </td
+📊 Análise do GitHub
+<div <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pedrooareas06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=8b5cf6&text_color=c9d1d9"/> <img
+<br/> <
 
-**&lt;/&gt;** Feito com React, TypeScript e muito ☕
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooareas06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9"/> </div>
+🐍 Contribuir
+<div a <imagem> <então </div>
+📫 V
+<div <a href="mailto:pedrohenriqueareas@gmail.com"> <a href="https://github.com/Pedrooareas06"> <a href="https://wa.me/5521996771494">
+<br/> <br
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pedrooareas06&color=38BDF8&style=flat-square)
-
+💬 "Código limpo, interfaces incríveis e experiências memoráveis."
 </div>
+<div <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120§ion=footer"/> </div
