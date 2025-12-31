@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Pedro%20Henrique%20Areas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Specialist&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Pedro%20Henrique%20Areas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20TypeScript&descAlignY=55&descSize=18"/>
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Transformando+ideias+em+interfaces+incr%C3%ADveis;%E2%9C%A8+React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind)](https://git.io/typing-svg)
