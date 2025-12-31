@@ -111,7 +111,6 @@ const pedroAreas: Developer = {
 | 🤝 **Trabalho em Equipe** | Colaboração eficaz e comunicação clara |
 | 📚 **Aprendizado Contínuo** | Sempre buscando novas tecnologias e melhores práticas |
 | 🎯 **Resolução de Problemas** | Análise crítica e soluções criativas |
-| ⏰ **Gestão de Tempo** | Organização e cumprimento de prazos |
 | 💬 **Comunicação** | Clareza na transmissão de ideias técnicas |
 | 🔄 **Adaptabilidade** | Flexibilidade para mudanças e novos desafios |
 
