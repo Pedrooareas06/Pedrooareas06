@@ -47,7 +47,7 @@ const pedroAreas: Developer = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Hard Skills
 
 <div align="center">
 
@@ -60,6 +60,7 @@ const pedroAreas: Developer = {
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" height="48"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" height="48"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" title="shadcn/ui" alt="shadcn/ui" height="48"/></a>
 </p>
 
 ### 🎨 Styling & UI
@@ -96,6 +97,23 @@ const pedroAreas: Developer = {
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" width="48" height="48"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/></a>
 </p>
+
+</div>
+
+---
+
+## 💡 Soft Skills
+
+<div align="center">
+
+| 🧠 Habilidade | 📋 Descrição |
+|:---:|:---|
+| 🤝 **Trabalho em Equipe** | Colaboração eficaz e comunicação clara |
+| 📚 **Aprendizado Contínuo** | Sempre buscando novas tecnologias e melhores práticas |
+| 🎯 **Resolução de Problemas** | Análise crítica e soluções criativas |
+| ⏰ **Gestão de Tempo** | Organização e cumprimento de prazos |
+| 💬 **Comunicação** | Clareza na transmissão de ideias técnicas |
+| 🔄 **Adaptabilidade** | Flexibilidade para mudanças e novos desafios |
 
 </div>
 
@@ -173,19 +191,18 @@ Plataforma para encontrar as melhores ofertas de jogos com interface moderna e i
 <div align="center">
 
 <a href="https://github.com/Pedrooareas06">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pedrooareas06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrooareas06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/Pedrooareas06">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Pedrooareas06&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
-</a>
-
-<a href="https://github.com/Pedrooareas06">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooareas06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooareas06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9"/>
 </a>
 
 </div>
 
-<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrooareas06&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrooareas06&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
