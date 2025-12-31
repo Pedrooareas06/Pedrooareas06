@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👨‍💻 Pedro Henrique de Lima Arêas
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Criando+interfaces+modernas+e+escal%C3%A1veis)](https://git.io/typing-svg)
@@ -99,3 +101,5 @@ Aplicação desenvolvida para apresentar meus projetos, stack técnica e evoluç
 **&lt;/&gt;** Feito com React, TypeScript e muito ☕
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pedrooareas06&color=38BDF8&style=flat-square)
+
+</div>
