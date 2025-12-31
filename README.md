@@ -2,8 +2,7 @@
 
 # 👨‍💻 Pedro Henrique de Lima Arêas
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=Pedro%20Henrique%20de%20Lima%20Arêas&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Specialist&descAlignY=55&descSize=18"/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Criando+interfaces+modernas+e+escal%C3%A1veis)](https://git.io/typing-svg)
 
 </div>
 
