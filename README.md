@@ -1,96 +1,185 @@
 <div align="center">
 
-# 👨‍💻 Pedro Henrique de Lima Arêas
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Pedro%20Henrique%20Areas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20React%20Specialist&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Criando+interfaces+modernas+e+escal%C3%A1veis)](https://git.io/typing-svg)
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Transformando+ideias+em+interfaces+incr%C3%ADveis;%E2%9C%A8+React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind)](https://git.io/typing-svg)
+
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://github.com/Pedrooareas06">
+    <img src="https://img.shields.io/github/followers/Pedrooareas06?label=Followers&logo=github&style=for-the-badge&color=0f172a&labelColor=1e293b" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Pedrooareas06?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&style=for-the-badge&color=0f172a&labelColor=1e293b&query=%24.public_repos&url=https://api.github.com/users/Pedrooareas06" alt="GitHub Repos"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pedrooareas06&color=38bdf8&style=for-the-badge&label=VISITANTES" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-Sou **Desenvolvedor Front-End**, com foco em criar interfaces modernas, escaláveis e com excelente experiência do usuário.
+## 🎯 Sobre Mim
 
-Atuo principalmente no ecossistema **React**, utilizando **Next.js**, **TypeScript**, **Tailwind CSS** e **shadcn/ui** em projetos reais de produto.
+```typescript
+const pedroAreas: Developer = {
+  role: "Front-End Developer",
+  location: "Rio de Janeiro, Brasil 🇧🇷",
+  focus: ["UI/UX", "Performance", "Acessibilidade", "Clean Code"],
+  currentlyLearning: ["Node.js", "C# / .NET", "Arquitetura de Software"],
+  passions: ["Interfaces modernas", "Animações fluidas", "Código limpo"],
+  funFact: "Cada linha de código é uma oportunidade de criar algo incrível ✨"
+};
+```
 
-Tenho contato com back-end e banco de dados para integração e entendimento do fluxo completo da aplicação, mantendo meu foco principal em **Front-End**.
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
+
+### 💡 O que me define
+
+- 🎨 **Design System Lover** — Componentização e consistência visual
+- ⚡ **Performance First** — Aplicações rápidas e otimizadas  
+- 🧩 **Component Architect** — Código reutilizável e escalável
+- 🔄 **Always Learning** — Em constante evolução técnica
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 
-### 🧠 Front-End (foco principal)
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### ⚛️ Front-End Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" alt="Frontend Core"/>
+</p>
+
+### 🎨 Styling & UI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,figma" alt="Styling"/>
+</p>
+
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
-- ⚛️ **React.js** — hooks, componentização, estado e boas práticas
-- ⏭️ **Next.js** — App Router, Server/Client Components e estrutura moderna
-- 🟦 **TypeScript** — tipagem estática e código mais seguro
-- 🎨 **Tailwind CSS** — design responsivo e padronizado
-- 🧩 **shadcn/ui** — componentes acessíveis e reutilizáveis
-- 🌀 **Framer Motion** — animações e transições suaves
+### 🔧 Tools & Workflow
 
-### 🔌 Integrações e Versionamento
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,vite" alt="Tools"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 📚 Explorando
 
-- 🌐 Consumo de **APIs REST**
-- 🛠️ **Git & GitHub** — versionamento, branches e colaboração em equipe
-
-### 🗄️ Back-End e Dados (conhecimento complementar)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-- 🟢 **Node.js** — em processo de aprendizado
-- 🗃️ **SQL** — consultas básicas (SELECT, WHERE, JOIN simples)
-- 🔵 **C# / .NET** — em fase de estudo e evolução
-
----
-
-## 📁 Projeto em Destaque
-
-### 💼 [Portfólio Pessoal](https://portifolio-pessoal-sepia-nu.vercel.app/)
-
-Aplicação desenvolvida para apresentar meus projetos, stack técnica e evolução como desenvolvedor front-end.
-
-**Principais características:**
-
-- 🎨 Layout moderno, clean e totalmente responsivo
-- ⚙️ Desenvolvido com **React / Next.js + TypeScript + Tailwind CSS**
-- 🧩 Componentes utilizando **shadcn/ui**
-- ✨ Animações com **Framer Motion**
-- 🧱 Identidade visual profissional
-
-🔗 **[Acesse o projeto →](https://portifolio-pessoal-sepia-nu.vercel.app/)**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrooareas06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooareas06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,postgres" alt="Learning"/>
+</p>
 
 </div>
 
 ---
 
-## 📫 Contato
+## 🏆 Projeto em Destaque
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-pedrohenriqueareas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriqueareas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Pedrooareas06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedrooareas06)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2021%2099677--1494-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521996771494)
+<a href="https://portifolio-pessoal-sepia-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_PORTFÓLIO_PESSOAL-Acesse_Agora-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Portfolio"/>
+</a>
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 💼 Portfólio Pessoal
+
+Aplicação desenvolvida para apresentar minha jornada, projetos e evolução como desenvolvedor front-end.
+
+**✨ Highlights:**
+
+- 🎯 Layout moderno e totalmente responsivo
+- ⚡ Next.js 14 + App Router
+- 🎨 Tailwind CSS + shadcn/ui
+- 🌀 Animações fluidas com Framer Motion
+- 🔍 SEO otimizado
+- 📱 Mobile-first design
+
+</td>
+<td width="50%">
+
+**🛠️ Stack Utilizada:**
+
+```
+├── ⚛️  React / Next.js
+├── 🟦  TypeScript
+├── 🎨  Tailwind CSS
+├── 🧩  shadcn/ui
+├── ✨  Framer Motion
+└── 🚀  Vercel (Deploy)
+```
+
+<div align="center">
+
+[![Ver Projeto](https://img.shields.io/badge/▶_VER_PROJETO-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-pessoal-sepia-nu.vercel.app/)
+[![Código](https://img.shields.io/badge/📂_CÓDIGO-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedrooareas06)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pedrooareas06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrooareas06&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooareas06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages"/>
+
+</div>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrooareas06&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🤝 Vamos Conectar?
+
+<div align="center">
+
+<p>
+  <a href="mailto:pedrohenriqueareas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pedrohenriqueareas-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Pedrooareas06">
+    <img src="https://img.shields.io/badge/GitHub-Pedrooareas06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://wa.me/5521996771494">
+    <img src="https://img.shields.io/badge/WhatsApp-(21)_99677--1494-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<br/>
+
+### 💬 Aberto para oportunidades!
+
+<p>
+  <img src="https://img.shields.io/badge/🎯_Buscando-Oportunidades_Front--End-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Status"/>
+</p>
 
 </div>
 
@@ -98,8 +187,17 @@ Aplicação desenvolvida para apresentar meus projetos, stack técnica e evoluç
 
 <div align="center">
 
-**&lt;/&gt;** Feito com React, TypeScript e muito ☕
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0f172a&height=120&section=footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pedrooareas06&color=38BDF8&style=flat-square)
+<p>
+  <strong>⚡ Feito com</strong> 
+  <img src="https://skillicons.dev/icons?i=react,typescript" height="20"/> 
+  <strong>e muito</strong> ☕
+</p>
+
+<p>
+  <em>"O código é poesia, a interface é arte."</em>
+</p>
 
 </div>
