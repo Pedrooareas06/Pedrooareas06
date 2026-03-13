@@ -60,7 +60,6 @@ const pedroAreas: Developer = {
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" height="48"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" title="shadcn/ui" alt="shadcn/ui" height="48"/></a>
 </p>
 
 ### 🎨 Styling & UI
